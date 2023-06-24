@@ -6,6 +6,3 @@
 <div styLe="display: inline_block"><br/>
   <img align="center" alt="fullstack" src="https://res.cloudinary.com/dmsxwwfb5/image/upload/v1595866967/full-stack-devlopment-min.png" />
 </div>
-  
-
-Apaixonado por dev ❤️
